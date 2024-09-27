@@ -26,5 +26,10 @@ public class TiposVariaveis {
     System.out.println("numeroCurto1: " + numeroCurto);
     System.out.println("numeroNormal: " + numeroNormal);
     System.out.println("numeroCurto2: " + numeroCurto2);
+
+
+    final double VALOR_DE_PI = 3.14;
+
+    System.out.println(VALOR_DE_PI);
   }
 }
